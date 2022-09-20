@@ -1,0 +1,9 @@
+pylint==2.11.1
+black
+pytest
+pandas
+sklearn
+matplotlib
+seaborn
+numpy
+mlflow[extras]
